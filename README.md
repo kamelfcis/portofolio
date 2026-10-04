@@ -1,4 +1,3 @@
-
 # Mohamed Kamel — Premium Developer Portfolio
 
 > A premium, futuristic, AI-inspired personal portfolio built with pure HTML, CSS, and Vanilla JavaScript.
@@ -29,7 +28,7 @@ It is intentionally built without a frontend framework to keep the project:
 > Add your live deployment URL here.
 
 ```text
-https://your-portfolio.vercel.app
+https://portofolio-xi-pink.vercel.app/
 ```
 
 ---
